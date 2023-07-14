@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/649013f2779070ae624b432a?variant=dark)](https://roadmap.sh)
 <!--
 **xarop-pa-toss/xarop-pa-toss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
