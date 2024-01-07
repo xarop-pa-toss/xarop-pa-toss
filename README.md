@@ -2,7 +2,7 @@
 
 [![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/649013f2779070ae624b432a?variant=dark)](https://roadmap.sh)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=xarop-pa-toss&left_color=green&right_color=purple)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fxarop-pa-toss&label=Visitors&labelColor=%23d9e3f0&countColor=%23ba68c8&style=plastic)
 <!--
 **xarop-pa-toss/xarop-pa-toss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
