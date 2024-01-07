@@ -1,7 +1,5 @@
 ### Hi there 👋
-<div style="text-align: center;" markdown="1">
 ![Banner](https://github.com/xarop-pa-toss/xarop-pa-toss/assets/12295009/822da616-1a5d-4e74-a982-452eb9fca182)
-</div>
 [![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/649013f2779070ae624b432a?variant=dark)](https://roadmap.sh)
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fxarop-pa-toss&label=Visitors&labelColor=%23d9e3f0&countColor=%23ba68c8&style=plastic)
 <!--
