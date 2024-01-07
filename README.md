@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-![Banner](https://github.com/xarop-pa-toss/xarop-pa-toss/assets/12295009/edb7b3d2-ef2b-4daa-a593-810f628e4786)
+
+![Banner](https://github.com/xarop-pa-toss/xarop-pa-toss/assets/12295009/2c11292b-6918-4c5c-841e-66808c15bcb2)
 
 
 [![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/649013f2779070ae624b432a?variant=dark)](https://roadmap.sh)
@@ -19,4 +20,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Footer](https://github.com/xarop-pa-toss/xarop-pa-toss/assets/12295009/9959dc84-dfc3-40f0-bb07-2fb29090e890)
+
+![Footer](https://github.com/xarop-pa-toss/xarop-pa-toss/assets/12295009/360ec114-5f02-4f3b-915b-d2cdf86ad497)
