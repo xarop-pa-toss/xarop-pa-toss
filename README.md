@@ -1,5 +1,6 @@
 ### Hi there 👋
-![Banner](https://github.com/xarop-pa-toss/xarop-pa-toss/assets/12295009/822da616-1a5d-4e74-a982-452eb9fca182)
+
+![Banner](https://github.com/xarop-pa-toss/xarop-pa-toss/assets/12295009/edb7b3d2-ef2b-4daa-a593-810f628e4786)
 
 
 [![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/649013f2779070ae624b432a?variant=dark)](https://roadmap.sh)
