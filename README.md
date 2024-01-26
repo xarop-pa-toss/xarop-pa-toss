@@ -3,7 +3,7 @@
 ## Hey there, I'm Ricardo! 👋  
 ### I code for both work and fun and right now I'm working on..  
   
-![discord-icon_16x16](https://github.com/xarop-pa-toss/xarop-pa-toss/assets/12295009/e9f68fc5-ba58-4d97-b6fe-abb28cfdcd90) **SardineBot**: A Discord chatbot made with .NET (Discord.NET + RestSharp) used in my local board game association's Discord Server. It leverages the Google Sheets API 📝 in order to access member subscription status and in-association financial situation. It also uses the Urban Dictionary API... for reasons 😁  
+![discord-icon_16x16](https://github.com/xarop-pa-toss/xarop-pa-toss/assets/12295009/e9f68fc5-ba58-4d97-b6fe-abb28cfdcd90) **SardineBot**: A Discord chatbot made with .NET (Discord.NET + RestSharp) used in my local board game association's Discord Server. It leverages the Google Sheets API 📝 in order to access member subscription status and in-association financial situation. It's a playground to learn about async and REST and I'll keep adding stuff to it that I think are useful or just fun 😁
   
 ![language-icon_16x16](https://github.com/xarop-pa-toss/xarop-pa-toss/assets/12295009/92371874-28e8-408c-a241-dafa41e1f815) **Unnamed Keywords App**: Marketing/keywords app that will extensively use Google's DialogFlow API to analyze searches, customer support chat logs and other forms of input for keywords to be analyzed.
 
