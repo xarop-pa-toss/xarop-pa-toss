@@ -12,7 +12,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=dotnet,cs,py,mysql,docker,linux,raspberrypi)](https://skillicons.dev)
 
-[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/649013f2779070ae624b432a?variant=dark)](https://roadmap.sh)
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/649013f2779070ae624b432a?variant=light&roadmaps=backend%2Csql%2Caspnet-core%2Cgolang)](https://roadmap.sh)
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fxarop-pa-toss&label=Visitors&labelColor=%23d9e3f0&countColor=%23ba68c8&style=plastic)  
 
 
